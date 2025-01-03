@@ -1,0 +1,21 @@
+Medicine Name,Strength,Mode of Administration
+Cetirizine,10 mg,Oral
+Loratadine,10 mg,Oral
+Fexofenadine,180 mg,Oral
+Diphenhydramine,25 mg,Oral
+Levocetirizine,5 mg,Oral
+Chlorpheniramine,4 mg,Oral
+Montelukast,10 mg,Oral
+Fluticasone Propionate,50 mcg per spray,Nasal Spray
+Mometasone Furoate,50 mcg per spray,Nasal Spray
+Budesonide,64 mcg per spray,Nasal Spray
+Azelastine,137 mcg per spray,Nasal Spray
+Triamcinolone Acetonide,55 mcg per spray,Nasal Spray
+Desloratadine,5 mg,Oral
+Olopatadine,665 mcg per spray,Nasal Spray
+Pseudoephedrine,60 mg,Oral
+Phenylephrine,10 mg,Oral
+Ipratropium Bromide,0.03% per spray,Nasal Spray
+Cromolyn Sodium,5.2 mg per spray,Nasal Spray
+Oxymetazoline,0.05% per spray,Nasal Spray
+Benralizumab,30 mg,Subcutaneous Injection
